@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "learn json-server",
+      "author": "Mrinmay Mukherjee"
+    },
+    {
+      "id": 2,
+      "title": "deneme baslik",
+      "author": "Serdar Topçu"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "it's pretty awesome",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "ilginç",
+      "postId": 2
+    },    
+    {
+      "id": 3,
+      "body": "güzel",
+      "postId": 3
+    }
+  ],
+  "profile": {
+    "name": "Mrinmay Mukherjee"
+  }
+}
