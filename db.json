@@ -1,14 +1,16 @@
 {
-  "posts": [
+  "cariListe": [
     {
       "id": 1,
-      "title": "learn json-server",
-      "author": "Mrinmay Mukherjee"
+      "kod": "320.0001",
+      "unvan": "ENG Bilgisayar",
+      "tel": "053396495512"
     },
     {
       "id": 2,
-      "title": "deneme baslik",
-      "author": "Serdar Topçu"
+      "kod": "320.0002",
+      "unvan": "Tavuklu Arif",
+      "tel": "0533965455"
     }
   ],
   "comments": [
